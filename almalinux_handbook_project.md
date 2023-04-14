@@ -1,5 +1,5 @@
-﻿The AlmaLinux Handbook Project
-​ Why is having a comprehensive and well-documented handbook** important for the popularity of open-source, community-driven, enterprise Linux distribution?
+The AlmaLinux Handbook Project
+ Why is having a comprehensive and well-documented handbook** important for the popularity of open-source, community-driven, enterprise Linux distribution?
 ** like Fedora_Handbook or Gentoo_Handbook or FreeBSD Handbook
     1. Ease of use: A well-written handbook can provide users with clear and concise instructions on how to install, configure, and use the Linux distribution. This can help users overcome any initial barriers to entry and make it easier for them to get started with the distribution.
 
